@@ -1,0 +1,10 @@
+body {
+  background-color: #eeefee;
+  color: #636;
+}
+
+#delightful-logo {
+  display: block;
+  margin: 10% auto;
+  width: min(80%, 800px);
+}
